@@ -1,0 +1,21 @@
+{
+  "name": "slack-hubot",
+  "version": "0.0.1",
+  "private": true,
+  "author": "Fred Oliveira <fred@helloform.com>",
+  "description": "A hubot setup with a few gaming-related tweaks",
+  "dependencies": {
+    "hubot": "^2.10.0",
+    "hubot-diagnostics": "0.0.1",
+    "hubot-help": "^0.1.1",
+    "hubot-heroku-keepalive": "0.0.4",
+    "hubot-redis-brain": "0.0.2",
+    "hubot-rules": "^0.1.0",
+    "hubot-scripts": "^2.5.16",
+    "hubot-slack": "^3.0.0",
+    "slack-destiny-bot": "1.0.4"
+  },
+  "engines": {
+    "node": "0.10.x"
+  }
+}
